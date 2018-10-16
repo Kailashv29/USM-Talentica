@@ -1,2 +1,2 @@
-# USM-Talentica
-User Management System of Talentica Software
+# USM
+User Management System 
